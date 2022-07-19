@@ -1,0 +1,12 @@
+scikit-learn
+pythainlp
+joblib
+gunicorn
+Flask
+tensorflow-cpu
+pandas
+numpy
+wheel
+tensorflow-text
+tensorflow-hub
+
