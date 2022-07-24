@@ -1,6 +1,6 @@
 import requests
 import json
-url = 'https://5000-nitsirs-debunker-v074rtdhaey.ws-us47.gitpod.io/webhook'
+url = 'http://127.0.0.1:5000/webhook'
 data = {
   "responseId": "response-id",
   "session": "projects/project-id/agent/sessions/session-id",
