@@ -5,7 +5,7 @@ data = {
   "responseId": "response-id",
   "session": "projects/project-id/agent/sessions/session-id",
   "queryResult": {
-    "queryText": "มะนาวโซดาฆ่ามะเร็ง",
+    "queryText": "คนขับเกียร์ออโต้ขอเวลาอ่านสัก 5 นาที เพื่อชีวิตและความปลอดภัยบนท้องถนน",
     "parameters": {
       "param-name": "param-value"
     },
